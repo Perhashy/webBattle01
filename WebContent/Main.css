@@ -7,6 +7,7 @@ h1 {
 
 .content {
 	width: 900px;
+	height: 500px;
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
@@ -14,12 +15,17 @@ h1 {
 
 .side {
 	width: 300px;
-	height: 600px;
+	height: 100%;
 	background-color: gray;
 }
 
 .main {
 	width: 500px;
-	height: 400px;
+	height: 100%;
 	background-color: gray;
+}
+
+.display {
+	height: 350px;
+	background-color: #000;
 }

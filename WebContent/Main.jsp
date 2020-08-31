@@ -13,7 +13,12 @@
 	<div class = content>
 		<div class = side></div>
 		<div class = main>
-			<form action=""></form>
+			<div class = display></div>
+			<form action="">
+			<input type = "submit">
+			<input type = "submit">
+			<input type = "submit">
+			</form>
 		</div>
 	</div>
 </div>
