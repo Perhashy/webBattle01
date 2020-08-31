@@ -8,6 +8,14 @@
 <link rel="stylesheet" href="Main.css">
 </head>
 <body>
-<h1>戦闘ゲーム！</h1>
+<div class = wrapper>
+	<h1>戦闘ゲーム！</h1>
+	<div class = content>
+		<div class = side></div>
+		<div class = main>
+			<form action=""></form>
+		</div>
+	</div>
+</div>
 </body>
 </html>
